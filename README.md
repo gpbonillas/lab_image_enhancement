@@ -1,4 +1,19 @@
-# lab_image_enhancement
+# Laboratorio para mejorar imágenes usando skimage: Operaciones elementales.
+
+Para este ejercicio hemos usado las imagenes 33, 77, 333 y 777 del dataset [The Dark Face](https://www.kaggle.com/datasets/soumikrakshit/dark-face-dataset). 
+
+## Tecnología usadas: 
+- Jupyter Notebook
+- Python
+- skimage
+## Funciones aplicadas: 
+Principalmente, nos centraremos en las siguientes técnicas:
+
+- Funciones de transformación o ajuste de la intensidad.
+- Procesamiento del histograma.
+- Operadores aritméticos.
+
+
 
 
 ``` python
